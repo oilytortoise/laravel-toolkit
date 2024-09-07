@@ -1,0 +1,19 @@
+{
+    "name": "oilytortoise/laravel-toolkit",
+    "description": "A collection of useful tools and functions for Laravel development",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oilytortoise\\LaravelToolkit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oilytortoise",
+            "email": "152834130+oilytortoise@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
